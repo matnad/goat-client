@@ -1,0 +1,24 @@
+{
+  "questions": [
+    "Wie komme ich mit den öffentlichen Verkehrsmitteln zum Nachthafen?",
+    "Ich komme mit dem Auto. Wo kann ich parken?",
+    "Warum kann ich mir keinen Platz reservieren?",
+    "Was passiert wenn die LAN voll wird und ich nur provisorisch angemeldet bin?",
+    "Welche Spiele werden gespielt?",
+    "Kann ich ein Turnier organisieren?",
+    "Kann ich rauchen?",
+    "Ab welcher Uhrzeit gilt draussen die Nachtruhe?",
+    "Sind Haustiere erlaubt?"
+  ],
+  "answers": [
+    "Die nächste ÖV Haltestelle ist der <a href='https://goo.gl/maps/8ZwUftvR2FVSXTx87' target='_blank'>Wettsteinplatz</a>",
+    "Im Quartier gibt es blaue Zonen. Es ist möglich am BVB-Ticketautomat oder <a href='https://mfk.egov.bs.ch/mfk/formulare/EgovFormsMfk/besucherparkkarte/step_1.xhtml' target='_blank'>online</a> eine Parkkarte zu kaufen.",
+    "Es ist nur möglich einen Platz zu reservieren wenn du dich definitiv für das volle Wochenende anmeldest.",
+    "Bei zu vielen Anmeldungen erhalten Teilnehmer mit definitiver Anmeldung Vorrang.",
+    "Chivalry, Mordhau, Counter Strike Source, Quake, Unreal Tournament 2004, Flatout, Left for Dead II, Siedler III, Warcraft III. Es war bisher aber immer möglich vor Ort Spielpartner für andere Spiele zu gewinnen.",
+    "Es ist möglich vor Ort Turniere zu veranstalten. Melde dich bei Vicky oder Remy für weitere Informationen.",
+    "Rauchen ist nur auf der Terrasse gestattet.",
+    "Ab 22:00 laut den Regeln des Nachthafens. ",
+    "Im Nachthafen sind keine Tiere erlaubt."
+  ]
+}
